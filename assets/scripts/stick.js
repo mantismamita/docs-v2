@@ -1,6 +1,8 @@
 // Stick the sidebar to the top after scroll
 //
 // Avoids unnecessary dependency on jQuery
+// sticky banner for any future announcements (add script tag to default.html to use)
+
 (function () {
 	var hasClass = false;
 	var headerSize = 60;
